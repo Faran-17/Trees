@@ -59,3 +59,18 @@ if __name__ == '__main__':
     # print(root.get_level())
     root.print_tree()
     pass
+
+# Output
+# Electronics
+#    |__Laptops
+#       |__Mac
+#       |__Surface
+#       |__Thinkpad
+#    |__Cell Phones
+#       |__IPhone
+#       |__Google Pixel
+#       |__Vivo
+#    |__TV
+#       |__Samsung
+#       |__LG
+
